@@ -458,11 +458,16 @@ input.mainBtn {
 }
 
 #blog {
-  background-image: url("../images/includes/blog.jpg");
+  background-image: url("../images/includes/upevent/background.jpg");
 }
 
 #blogId {
   background-image: url("../images/includes/blogId.jpg");
+  background-attachment: inherit;
+}
+
+#blogIdsub {
+  background-image: url("../images/includes/homepagepic/articlepic.jpg");
   background-attachment: inherit;
 }
 
